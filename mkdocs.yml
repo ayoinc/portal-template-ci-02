@@ -1,0 +1,8 @@
+site_name: sample-nextjs-app
+site_description: "Customer portal for the sample team's orders"
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
