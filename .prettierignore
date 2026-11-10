@@ -1,0 +1,9 @@
+dist
+coverage
+node_modules
+package-lock.json
+
+# Generated from the values entered in the developer portal
+catalog-info.yaml
+mkdocs.yml
+docs

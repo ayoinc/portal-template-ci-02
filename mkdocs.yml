@@ -1,0 +1,8 @@
+site_name: sample-orders-api
+site_description: "REST API for the sample team's orders"
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
