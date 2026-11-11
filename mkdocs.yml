@@ -1,0 +1,15 @@
+site_name: "sample-landing-page"
+site_description: "It's the \"fastest\" way to get paid: launch page for payments"
+
+nav:
+  - Home: index.md
+
+plugins:
+  - techdocs-core
+  - d2
+
+validation:
+  links:
+    not_found: warn
+    anchors: warn
+    unrecognized_links: warn

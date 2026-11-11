@@ -1,0 +1,16 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: sample-landing-page
+  description: "It's the \"fastest\" way to get paid: launch page for payments"
+  annotations:
+    backstage.io/techdocs-ref: dir:.
+    github.com/project-slug: example-org/sample-landing-page
+  tags:
+    - landing-page
+    - marketing
+    - website
+spec:
+  type: website
+  lifecycle: production
+  owner: group:default/platform-team
